@@ -1,0 +1,2 @@
+# BritcoinToken
+Solidity files etc.
